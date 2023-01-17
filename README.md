@@ -4,7 +4,7 @@ The sample Dataset summarises the usage behaviour of about 9000 active credit ca
 The file is at a customer level with 18 behavioural variables.
 Data resource : https://mohitkedia.github.io/Credit-Card-Segmentation-in-R/
 <br />
-variables : 
+### variables : 
 <br />
 CUST_ID : Credit card holder ID.
 <br />
