@@ -3,7 +3,7 @@ Develop a customer segmentation to define marketing strategy.
 The sample Dataset summarises the usage behaviour of about 9000 active credit card holders during 6 months. 
 The file is at a customer level with 18 behavioural variables.
 <br />
-[Data_resource]( https://mohitkedia.github.io/Credit-Card-Segmentation-in-R/)
+[Data_source]( https://mohitkedia.github.io/Credit-Card-Segmentation-in-R/)
 <br />
 ### variables : 
 - CUST_ID : Credit card holder ID.
