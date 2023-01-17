@@ -43,3 +43,4 @@ The file is at a customer level with 18 behavioural variables.
 - PRC_FULL_PAYMENT : Percentage of months with full payment of the due statement balance.
 <br />
 - TENURE :Number of months as a customer.
+- 
