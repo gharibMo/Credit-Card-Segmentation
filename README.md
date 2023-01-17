@@ -6,9 +6,8 @@ The file is at a customer level with 18 behavioural variables.
 [Data_resource]( https://mohitkedia.github.io/Credit-Card-Segmentation-in-R/)
 <br />
 ### variables : 
-CUST_ID : Credit card holder ID.
-<br />
-BALANCE : Monthly average balance (based on daily balance averages).
+- CUST_ID : Credit card holder ID.
+- BALANCE : Monthly average balance (based on daily balance averages).
 <br />
 BALANCE_FREQUENCY : Ratio of last 12 months with balance.
 <br />
